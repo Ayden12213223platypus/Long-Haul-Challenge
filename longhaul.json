@@ -1,0 +1,10 @@
+{
+	"id": "LongHal",
+	"name": "Long Haul",
+	"display_name": "Long Haul",
+	"author": ["Ayden"],
+	"description": "Adds 3 new challenges.",
+	"prefix": "lh",
+	"main_file": "longhaul.lua",
+	"version": "1.0.1"
+}
